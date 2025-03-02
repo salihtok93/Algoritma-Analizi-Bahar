@@ -1,0 +1,15 @@
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\BubleSort\BubleSort\bin\Debug\net7.0\BubleSort.exe
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\BubleSort\BubleSort\bin\Debug\net7.0\BubleSort.deps.json
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\BubleSort\BubleSort\bin\Debug\net7.0\BubleSort.runtimeconfig.json
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\BubleSort\BubleSort\bin\Debug\net7.0\BubleSort.dll
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\BubleSort\BubleSort\bin\Debug\net7.0\BubleSort.pdb
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\BubleSort\BubleSort\obj\Debug\net7.0\BubleSort.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\BubleSort\BubleSort\obj\Debug\net7.0\BubleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\BubleSort\BubleSort\obj\Debug\net7.0\BubleSort.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\BubleSort\BubleSort\obj\Debug\net7.0\BubleSort.AssemblyInfo.cs
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\BubleSort\BubleSort\obj\Debug\net7.0\BubleSort.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\BubleSort\BubleSort\obj\Debug\net7.0\BubleSort.dll
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\BubleSort\BubleSort\obj\Debug\net7.0\refint\BubleSort.dll
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\BubleSort\BubleSort\obj\Debug\net7.0\BubleSort.pdb
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\BubleSort\BubleSort\obj\Debug\net7.0\BubleSort.genruntimeconfig.cache
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\BubleSort\BubleSort\obj\Debug\net7.0\ref\BubleSort.dll

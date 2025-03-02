@@ -1,0 +1,15 @@
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\KSelectionProblem\KSelectionProblem\bin\Debug\net7.0\KSelectionProblem.exe
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\KSelectionProblem\KSelectionProblem\bin\Debug\net7.0\KSelectionProblem.deps.json
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\KSelectionProblem\KSelectionProblem\bin\Debug\net7.0\KSelectionProblem.runtimeconfig.json
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\KSelectionProblem\KSelectionProblem\bin\Debug\net7.0\KSelectionProblem.dll
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\KSelectionProblem\KSelectionProblem\bin\Debug\net7.0\KSelectionProblem.pdb
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\KSelectionProblem\KSelectionProblem\obj\Debug\net7.0\KSelectionProblem.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\KSelectionProblem\KSelectionProblem\obj\Debug\net7.0\KSelectionProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\KSelectionProblem\KSelectionProblem\obj\Debug\net7.0\KSelectionProblem.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\KSelectionProblem\KSelectionProblem\obj\Debug\net7.0\KSelectionProblem.AssemblyInfo.cs
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\KSelectionProblem\KSelectionProblem\obj\Debug\net7.0\KSelectionProblem.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\KSelectionProblem\KSelectionProblem\obj\Debug\net7.0\KSelectionProblem.dll
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\KSelectionProblem\KSelectionProblem\obj\Debug\net7.0\refint\KSelectionProblem.dll
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\KSelectionProblem\KSelectionProblem\obj\Debug\net7.0\KSelectionProblem.pdb
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\KSelectionProblem\KSelectionProblem\obj\Debug\net7.0\KSelectionProblem.genruntimeconfig.cache
+C:\Users\HUAWEI\Documents\Algoritma-Analizi-Bahar\KSelectionProblem\KSelectionProblem\obj\Debug\net7.0\ref\KSelectionProblem.dll
